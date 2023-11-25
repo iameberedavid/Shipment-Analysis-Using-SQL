@@ -1,0 +1,11 @@
+agent_id,name,country,region,city,subcity,when_created
+9,Abdul Salim,Senegal,Dakar,Dakar,Yoff,20/03/2020 00:00
+8,Sadio Kone,Senegal,Dakar,Dakar,Fann,26/03/2020 00:00
+7,Lesfam,Ghana,Ashanti,Kumasi,Suame,20/02/2020 00:00
+6,Leslie Toure,Ivory Coast,Abidjan,Abidjan,Cocodi,20/03/2020 00:00
+10,John Osei,Ghana,Greater Accra,Accra,Legon,10/04/2020 00:00
+1,Sunday Oluwale,Nigeria,Lagos State,Lagos,Yaba,11/05/2020 00:00
+2,Enock Ade,Nigeria,Abuja State,Abuja,Kubwa,16/06/2020 00:00
+4,Talika,Ivory Coast,Abidjan,Abidjan,Anyama,19/03/2020 00:00
+5,Elija Nyare,Ghana,Western,Takoradi,Port,28/05/2020 00:00
+3,Pope Armah,Ghana,Greater Accra,Accra,Tesano,21/06/2020 00:00
