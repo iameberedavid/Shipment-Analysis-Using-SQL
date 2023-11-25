@@ -1,0 +1,11 @@
+wallet_id,currency,ledger_location,when_created
+1,GHS,Ghana,30/04/2020 12:00
+2,USD,USA,29/04/2020 12:00
+3,EUR,Germany,30/03/2020 12:00
+4,GHS,Ghana,30/04/2020 12:00
+5,CFA,Ivory Coast,11/05/2020 00:00
+6,CFA,Ivory Coast,12/05/2020 00:00
+7,CFA,Ivory Coast,13/05/2020 00:00
+8,GHS,Ghana,14/05/2020 00:00
+9,EUR,Germany,15/05/2020 00:00
+10,USD,USA,16/05/2020 00:00
