@@ -17,7 +17,7 @@ The data sources for this project were provided by Azubi Africa.
 - Generate a table of employees and the number of customers they handle.
 - How many orders were made each year?
 - What quantity of the product ‘Chang’ was shipped in 2014?
-- 1.	What are the revenues per supplier in 2013 before and after discount applied? Show both values in a single table.
+- What are the revenues per supplier in 2013 before and after discount applied? Show both values in a single table.
 
 ## Author
 
