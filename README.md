@@ -3,6 +3,7 @@
 ## Technolgies
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-lightgreen)
 ![SQL](https://img.shields.io/badge/SQL-lightgreen)
+![MIT](https://img.shields.io/badge/MIT-License-lightgreen)
 
 ## Project Description
 
