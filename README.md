@@ -1,4 +1,4 @@
-# SHIPMENT ANALYSKS USING SQL
+# SHIPMENT ANALYSIS USING SQL
 
 ## Technolgies
 ![Data Analysis](https://img.shields.io/badge/Data-Analysis-lightgreen)
