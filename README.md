@@ -20,7 +20,7 @@ The data sources for this project were provided by Azubi Africa.
 - What quantity of the product ‘Chang’ was shipped in 2014?
 - What are the revenues per supplier in 2013 before and after discount applied? Show both values in a single table.
 
-## Author
+
 
 | Name | Profile | Portfolio | Articles | Contact |
 | ---- | ------- | --------- | -------- | ------- |
