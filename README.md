@@ -7,7 +7,7 @@
 
 ## Project Description
 
-The aim of this project is to geneate insights from datasets on SQL Database bearing company shipment details.
+The aim of this project is to generate insights from datasets on SQL Database bearing company shipment details.
 
 ## Data Source
 
